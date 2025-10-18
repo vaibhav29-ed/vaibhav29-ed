@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 About Me<br>🔭 Hey there! I’m Vaibhav Singh, a passionate Engineering student (Batch of 2028) <br>with a deep curiosity for how technology can shape the future.<br>🌱 I love exploring the intersection of AI, full-stack development, and design, constantly <br>pushing myself to create something meaningful and impactful..<br>⚡ Every project I take on is guided by one simple belief:<br>“Build something today that your future self would be proud of.”<br>📫 Contact me: vaibhavsingh292005@gmail.com
+# 🚀 About Me:
+🔭 Hey there! I’m Vaibhav Singh, a passionate Engineering student (Batch of 2028) <br>with a deep curiosity for how technology can shape the future.<br>🌱 I love exploring the intersection of AI, full-stack development, and design, constantly <br>pushing myself to create something meaningful and impactful..<br>⚡ Every project I take on is guided by one simple belief:<br>“Build something today that your future self would be proud of.”<br>📫 Contact me: vaibhavsingh292005@gmail.com
 
 
 ## 🌐 Socials:
