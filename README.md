@@ -1,5 +1,5 @@
 #  About Me:
- Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I buillding products in the intersection of AI, full-stack development, and design, constantly<br> Contact me: vaibhavsingh292005@gmail.com
+ Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I builld products in the intersection of AI, full-stack development, and design, constantly<br> Contact me: vaibhavsingh292005@gmail.com
 
 
 ## Socials:
