@@ -148,6 +148,16 @@
 </p>
 
 
+<h2>Contribution Journey ➣</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/vaibhav29-ed/vaibhav29-ed/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution snake animation"
+    width="100%"
+  />
+</p>
+
 <h2>GitHub Achievements ➣</h2>
 
 <div align="center">
@@ -157,14 +167,6 @@
     alt="GitHub profile trophies"
 />
 </div>
-
-<h2> Contribution Activity</h2>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav29-ed&theme=github-compact&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
 
 
 
