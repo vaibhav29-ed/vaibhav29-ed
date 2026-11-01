@@ -1,3 +1,10 @@
+<div align="center">
+  <img
+    src="./vaibhav29-ed/banner3.png"
+    width="100%"
+    alt="Vaibhav Singh profile banner"
+  />
+</div> 
 
 #  About Me:
  Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I builld products in the intersection of AI, full-stack development, and design.<br> Contact me: vaibhavsingh.work.29@gmail.com
