@@ -77,12 +77,18 @@
         View Site ↗
       </a>
       &nbsp;·&nbsp;
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/CommitScribble">
+      <a href="https://github.com/vaibhav29-ed/CommitScibble">
         Source Code ↗
       </a>
     </td>
   </tr>
 </table>
+
+<p align="right">
+  <a href="https://vaibhavprofile-two.vercel.app/">
+    Explore more projects →
+  </a>
+</p>
 
 
 
