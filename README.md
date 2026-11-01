@@ -58,7 +58,7 @@
     <td width="100%" valign="top">
       <h3>
         <img
-          src="./assets/commitscribble.png"
+          src="commitscribble-logo.png"
           width="36"
           height="36"
           align="center"
