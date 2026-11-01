@@ -10,12 +10,9 @@
   <tr>
     <td width="60%" valign="middle">
       <h2>Hey, Vaibhav here ➣</h2>
-      Hey there! I'm <b>Vaibhav Singh</b>, a passionate
-      engineering student with a deep curiosity for how
-      technology can shape the future.
+      ⦿ I build things people actually use, then write about what broke and changes made.
       <br/><br/>
-      I build products at the intersection of AI,
-      full-stack development, and design.
+      ⦿ Based in India · Building for the internet.
       <br/><br/>
       📫 <b>Contact:</b>
       <a href="mailto:vaibhavsingh.work.29@gmail.com">
