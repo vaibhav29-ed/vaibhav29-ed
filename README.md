@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./vaibhav29-ed/banner3.png"
+    src="./banner3.png"
     width="100%"
     alt="Vaibhav Singh profile banner"
   />
