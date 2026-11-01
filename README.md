@@ -6,8 +6,33 @@
   />
 </div> 
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-<br><br>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h2>👋 About Me</h2>
+      Hey there! I'm <b>Vaibhav Singh</b>, a passionate
+      engineering student with a deep curiosity for how
+      technology can shape the future.
+      <br/><br/>
+      I build products at the intersection of AI,
+      full-stack development, and design.
+      <br/><br/>
+      📫 <b>Contact:</b>
+      <a href="mailto:vaibhavsingh.work.29@gmail.com">
+        Email me
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>"
+        width="280"
+        alt="Developer animation"
+      />
+    </td>
+  </tr>
+</table>
+
 #  About Me:
  Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I builld products in the intersection of AI, full-stack development, and design.<br> Contact me: vaibhavsingh.work.29@gmail.com
 
