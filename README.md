@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:4F46E5,100:8B5CF6&text=Vaibhav%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder&descAlignY=60&descSize=17"
+    width="100%"
+    alt="Vaibhav Singh — GitHub Profile Banner"
+  />
+</div>
+
 #  About Me:
  Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I builld products in the intersection of AI, full-stack development, and design.<br> Contact me: vaibhavsingh.work.29@gmail.com
 
