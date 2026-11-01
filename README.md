@@ -12,6 +12,10 @@
       <h2>Hey, Vaibhav here ➣</h2>
       ⦿ I build things people actually use, then write about what broke and changes made.
       <br/><br/>
+      ⦿ Current playground: AI products, Developer tools, and full-stack engineering.
+      <br/><br/>
+      ⦿Interested in the systems behind the interface — architecture, automation, and intelligent tools.
+      <br/><br/>
       ⦿ Based in India · Building for the internet.
       <br/><br/>
       📫 <b>Contact:</b>
