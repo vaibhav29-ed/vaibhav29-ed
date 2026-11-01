@@ -148,21 +148,25 @@
 </p>
 
 
-
-<h2>GitHub Analytics ➣</h2>
+<h2>GitHub Achievements ➣</h2>
 
 <div align="center">
   <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=vaibhav29-ed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaibhav29-ed&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    alt="Most Used Languages"
-  />
+    src="https://github-profile-trophy.vercel.app/?username=vaibhav29-ed&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6"
+    width="100%"
+    alt="GitHub profile trophies"
+/>
 </div>
+
+<h2> Contribution Activity</h2>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav29-ed&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub contribution activity graph"
+/>
+
+
 
 
 
