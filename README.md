@@ -51,7 +51,7 @@
 
 
 
-<h2>Projects Built ↗</h2>
+<h2>Projects Built ➣</h2>
 
 <table>
   <tr>
@@ -92,7 +92,7 @@
 
 
 
-<h2>Writing</h2>
+<h2>Writing ➣</h2>
 
 <table>
   <tr>
@@ -148,25 +148,21 @@
 </p>
 
 
-<h2>📊 GitHub Analytics</h2>
+
+<h2>GitHub Analytics ➣</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=vaibhav29-ed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-          alt="GitHub statistics"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav29-ed&layout=compact&theme=github_dark&hide_border=true&langs_count=5"
-          alt="Most used languages"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=vaibhav29-ed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaibhav29-ed&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
+  />
 </div>
+
 
 
