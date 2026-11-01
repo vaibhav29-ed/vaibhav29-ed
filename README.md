@@ -6,6 +6,8 @@
   />
 </div> 
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>
 #  About Me:
  Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I builld products in the intersection of AI, full-stack development, and design.<br> Contact me: vaibhavsingh.work.29@gmail.com
 
