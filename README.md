@@ -1,4 +1,3 @@
-  <p><img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" alt="alt README header"></p>
 #  About Me:
  Hey there! I’m Vaibhav Singh, a passionate Engineering student. <br>with a deep curiosity for how technology can shape the future.<br> I builld products in the intersection of AI, full-stack development, and design.<br> Contact me: vaibhavsingh.work.29@gmail.com
 
