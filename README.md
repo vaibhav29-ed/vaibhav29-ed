@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="60%" valign="middle">
-      <h2>👋 About Me</h2>
+      <h2>Hey,Vaibhav here</h2>
       Hey there! I'm <b>Vaibhav Singh</b>, a passionate
       engineering student with a deep curiosity for how
       technology can shape the future.
