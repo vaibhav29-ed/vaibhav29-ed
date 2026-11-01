@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<h2>🌐 Connect with me ➣</h2>
+<h2>Connect with me ➣</h2>
 
 <div align="center">
   <a href="https://github.com/vaibhav29-ed">
