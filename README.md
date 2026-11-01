@@ -14,9 +14,9 @@
       <br/><br/>
       ⦿ Current playground: AI products, Developer tools, and full-stack engineering.
       <br/><br/>
-      ⦿Interested in the systems behind the interface — architecture, automation, and intelligent tools.
+      ⦿ Interested in the systems behind the interface <b (architecture, automation, and intelligent tools) ></b>
       <br/><br/>
-      ⦿ Based in India · Building for the internet.
+      ⦿ Based in <b India > · Building for the <b internet >
       <br/><br/>
       📫 <b>Contact:</b>
       <a href="mailto:vaibhavsingh.work.29@gmail.com">
