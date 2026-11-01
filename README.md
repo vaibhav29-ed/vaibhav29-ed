@@ -148,26 +148,6 @@
 </p>
 
 
-<h2>Contribution Journey ➣</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/vaibhav29-ed/vaibhav29-ed/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution snake animation"
-    width="100%"
-  />
-</p>
-
-<h2>GitHub Achievements ➣</h2>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=vaibhav29-ed&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6"
-    width="100%"
-    alt="GitHub profile trophies"
-/>
-</div>
-
 
 
 
