@@ -14,7 +14,7 @@
       <br/><br/>
       ⦿ Current playground: AI products, Developer tools, and full-stack engineering.
       <br/><br/>
-      ⦿ Interested in the systems behind the interface <b> (architecture, automation, and intelligent tools) ></b>
+      ⦿ Interested in the systems behind the interface <b> (architecture, automation, and intelligent tools)</b>
       <br/><br/>
       ⦿ Based in <b>India</b> · Building for the <b>Internet</b>
       <br/><br/>
